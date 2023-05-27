@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tonyjh07
-- 👀 I’m interested in Windows Linux internet
-- 🌱 I’m currently learning Windows
+- 👀 I’m interested in Windows Linux Internet
+- 🌱 I’m currently learning Windows .NET Batch
 - 💞️ I’m looking to collaborate on Windows
 - 📫 How to reach me yjh07@qq.com
 
